@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center"> Passionate Tech-Enthusiast</h2>
+<h1 align="center"> Passionate Tech-Enthusiast</h1>
 
 ###
 
@@ -115,8 +115,7 @@
 </div>
 
 <div align="left">
-<h2>Connect with me:</h2>
-### Most Used Languages
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAnushka&layout=compact&theme=radical)
 
