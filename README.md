@@ -114,4 +114,13 @@
 </a>
 </div>
 
+<div align="left">
+<h2>Connect with me:</h2>
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAnushka&layout=compact&theme=radical)
+
+
+</div>
+
 
