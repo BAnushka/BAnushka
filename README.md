@@ -59,7 +59,7 @@
 
 <h2 align="left">Database</h2>
 
-###
+
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
@@ -77,7 +77,7 @@
 
 <h2 align="left">Data Visualization</h2>
 
-###
+
 <div align="left">
 
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI logo" />
@@ -89,7 +89,7 @@
 
 <h2 align="left">Software</h2>
 
-###
+
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo" />
