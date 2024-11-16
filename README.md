@@ -109,7 +109,7 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn logo" />
 </a>
 <a href="https://leetcode.com/u/anushkabhokare03/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LeetCode_logo_2023.png" height="40" alt="LeetCode logo" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/87/LeetCode_logo_2023.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_Logo_1.png&psig=AOvVaw1oL6jAKutgT-tHdDsOU_X7&ust=1731831317909000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDIg8a04IkDFQAAAAAdAAAAABAE)" height="40" alt="LeetCode logo" />
 </a>
 <a href="https://github.com/BAnushka" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="GitHub logo" />
