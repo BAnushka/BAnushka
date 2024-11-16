@@ -54,7 +54,6 @@
 
   
 </div>
-###
 
 
 <h2 align="left">Database</h2>
@@ -73,7 +72,6 @@
 
 
 </div>
-###
 
 <h2 align="left">Data Visualization</h2>
 
