@@ -103,4 +103,17 @@
 
 </div>
 
+<div align="left">
+<h2>Connect with me:</h2>
+<a href="https://www.linkedin.com/in/anushka-bhokare-85975024a/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn logo" />
+</a>
+<a href="https://leetcode.com/u/anushkabhokare03/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LeetCode_logo_2023.png" height="40" alt="LeetCode logo" />
+</a>
+<a href="https://github.com/BAnushka" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="GitHub logo" />
+</a>
+</div>
+
 
