@@ -126,11 +126,4 @@
 </div>
 
 
-<div align="left">
-### Publications
-
-- **IEEE Submission**: Research paper on *Blockchain and Distributed Systems* submitted to IEEE.
-- **IEEE ICBDS 2024 Presentation**: Project titled *YouTube Video Summarizer Using ASR*, co-authored with Ratna Patil, Amar Buchade, Gitanjali Yadav, Nakul Sharma, and Sarthak Joshi.
-
-</div>
 
