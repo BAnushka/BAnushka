@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center"> Passionate Tech-Enthusiast</h1>
+<h1 align="center"> Passionate Software Developer</h1>
 
 ###
 
